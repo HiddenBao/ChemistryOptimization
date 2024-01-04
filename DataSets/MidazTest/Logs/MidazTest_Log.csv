@@ -1,0 +1,31 @@
+2024-01-04 13:25:03,995 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 13:25:03,995 - INFO - Iteration 4.0: Program started
+2024-01-04 13:27:36,108 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 13:27:36,108 - INFO - Iteration 4.0: Program started
+2024-01-04 13:28:51,108 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 13:28:51,108 - INFO - Iteration 4.0: Program started
+2024-01-04 13:30:37,133 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 13:30:37,134 - INFO - Iteration 4.0: Program started
+2024-01-04 13:31:43,911 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 13:31:43,911 - INFO - Iteration 4.0: Program started
+2024-01-04 13:31:43,911 - INFO - This is check step: 3
+2024-01-04 13:31:44,183 - INFO - Expansion of bounds DataFrame:
+          Condition        Type  Categories  BoundaryMin  BoundaryMax  \
+0       Temperature  Continuous         NaN        40.00        80.00   
+1   Catalyst_Amount  Continuous         NaN         0.01         1.99   
+2  Starting_Reagent  Continuous         NaN         1.10         2.00   
+3           Solvent  Continuous         NaN         0.10         0.60   
+4              Time  Continuous         NaN         2.00        24.00   
+5              Base  Continuous         NaN         1.00         5.00   
+6      Main_Product   Objective         NaN         0.00         1.00   
+7     Main_Impurity   Objective         NaN         0.00         1.00   
+
+                                         Description Maximize  
+0       Reaction temperature in degrees Celsius (ºC)      NaN  
+1     Catalyst amounts in molar equivalents (Equiv.)      NaN  
+2  2-Methylimidozole amounts in molar equivalents...      NaN  
+3                 Solvent amount in milliliters (mL)      NaN  
+4                 Duration of reaction in hours (hr)      NaN  
+5          Base amount in molar equivalents (Equiv.)      NaN  
+6                               LCAP of Main Product     True  
+7                              LCAP of Main Impurity    False   at Iteration 4.0
