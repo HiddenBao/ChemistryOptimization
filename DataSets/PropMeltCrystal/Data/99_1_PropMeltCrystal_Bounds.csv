@@ -1,0 +1,5 @@
+﻿Condition,Type,Categories,BoundaryMin,BoundaryMax,Description,Maximize
+Sweat_Temp,Continuous,,17,21,Temperature at which the sweating condition is held at,
+Sweat_Hold,Continuous,,30,90,The duration at which the sweat temp is held at,
+Purging_Coef,Objective,,0,1,The purity of the product given by HPLC AP,TRUE
+Yield,Objective,,0,1,Corrected yield of the entire system,TRUE

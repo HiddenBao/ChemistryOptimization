@@ -1,0 +1,3 @@
+,Temperature,Catalyst_Amount,Starting_Reagent,Solvent,Time,Base,strategy,Main_Product,Main_Impurity,Achievement_Function
+,DATA,DATA,DATA,DATA,DATA,DATA,METADATA,DATA,DATA,DATA
+11,75,1.0,1.8,0.35,13.0,4,RF,0.51,0.0,0.51

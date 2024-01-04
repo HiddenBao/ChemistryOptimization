@@ -1,0 +1,5 @@
+﻿Condition,Type,Categories,BoundaryMin,BoundaryMax,Description,Maximize
+Res_Time,Continuous,,20,100,Residence Time in total reactors,
+TempZ1,Continuous,,10,30,Temperature of the first crystallizer,
+TempZ2,Continuous,,0,10,Temperature of the second crystallizer,
+AF,Objective,,0,1,PSD,TRUE
