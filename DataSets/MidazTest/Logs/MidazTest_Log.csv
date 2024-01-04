@@ -1,31 +1,142 @@
-2024-01-04 13:25:03,995 - INFO - Reading dataset: MidazTest_Data.csv
-2024-01-04 13:25:03,995 - INFO - Iteration 4.0: Program started
-2024-01-04 13:27:36,108 - INFO - Reading dataset: MidazTest_Data.csv
-2024-01-04 13:27:36,108 - INFO - Iteration 4.0: Program started
-2024-01-04 13:28:51,108 - INFO - Reading dataset: MidazTest_Data.csv
-2024-01-04 13:28:51,108 - INFO - Iteration 4.0: Program started
-2024-01-04 13:30:37,133 - INFO - Reading dataset: MidazTest_Data.csv
-2024-01-04 13:30:37,134 - INFO - Iteration 4.0: Program started
-2024-01-04 13:31:43,911 - INFO - Reading dataset: MidazTest_Data.csv
-2024-01-04 13:31:43,911 - INFO - Iteration 4.0: Program started
-2024-01-04 13:31:43,911 - INFO - This is check step: 3
-2024-01-04 13:31:44,183 - INFO - Expansion of bounds DataFrame:
-          Condition        Type  Categories  BoundaryMin  BoundaryMax  \
-0       Temperature  Continuous         NaN        40.00        80.00   
-1   Catalyst_Amount  Continuous         NaN         0.01         1.99   
-2  Starting_Reagent  Continuous         NaN         1.10         2.00   
-3           Solvent  Continuous         NaN         0.10         0.60   
-4              Time  Continuous         NaN         2.00        24.00   
-5              Base  Continuous         NaN         1.00         5.00   
-6      Main_Product   Objective         NaN         0.00         1.00   
-7     Main_Impurity   Objective         NaN         0.00         1.00   
-
-                                         Description Maximize  
-0       Reaction temperature in degrees Celsius (ºC)      NaN  
-1     Catalyst amounts in molar equivalents (Equiv.)      NaN  
-2  2-Methylimidozole amounts in molar equivalents...      NaN  
-3                 Solvent amount in milliliters (mL)      NaN  
-4                 Duration of reaction in hours (hr)      NaN  
-5          Base amount in molar equivalents (Equiv.)      NaN  
-6                               LCAP of Main Product     True  
-7                              LCAP of Main Impurity    False   at Iteration 4.0
+2024-01-04 14:13:21,916 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:13:21,916 - INFO - Iteration 0.0: Program started
+2024-01-04 14:13:21,916 - INFO - This is check step: 2
+2024-01-04 14:13:22,712 - INFO - initializing Y
+2024-01-04 14:13:22,712 - INFO - initializing inference method
+2024-01-04 14:13:22,712 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:13:23,611 - INFO - Iteration 0.0: Program completed
+2024-01-04 14:14:22,441 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:14:22,441 - INFO - Iteration 1.0: Program started
+2024-01-04 14:14:22,441 - INFO - This is check step: 2
+2024-01-04 14:14:23,032 - INFO - initializing Y
+2024-01-04 14:14:23,032 - INFO - initializing inference method
+2024-01-04 14:14:23,048 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:14:23,898 - INFO - Iteration 1.0: Program completed
+2024-01-04 14:15:25,834 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:15:25,834 - INFO - Iteration 2.0: Program started
+2024-01-04 14:15:25,848 - INFO - This is check step: 3
+2024-01-04 14:15:26,057 - INFO - Expansion of bounds dataframe at Iteration 2.0
+2024-01-04 14:15:26,412 - INFO - initializing Y
+2024-01-04 14:15:26,412 - INFO - initializing inference method
+2024-01-04 14:15:26,412 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:15:27,298 - INFO - Iteration 2.0: Program completed
+2024-01-04 14:15:47,965 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:15:47,965 - INFO - Iteration 3.0: Program started
+2024-01-04 14:15:47,978 - INFO - This is check step: 3
+2024-01-04 14:15:48,190 - INFO - Expansion of bounds dataframe at Iteration 3.0
+2024-01-04 14:15:48,493 - INFO - initializing Y
+2024-01-04 14:15:48,493 - INFO - initializing inference method
+2024-01-04 14:15:48,493 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:15:49,387 - INFO - Iteration 3.0: Program completed
+2024-01-04 14:16:39,190 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:16:39,192 - INFO - Iteration 4.0: Program started
+2024-01-04 14:16:39,192 - INFO - This is check step: 3
+2024-01-04 14:16:39,414 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:16:39,737 - INFO - initializing Y
+2024-01-04 14:16:39,737 - INFO - initializing inference method
+2024-01-04 14:16:39,737 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:16:40,642 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:20:25,917 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:20:25,917 - INFO - Iteration 4.0: Program started
+2024-01-04 14:20:25,931 - INFO - This is check step: 4
+2024-01-04 14:20:26,130 - WARNING - Optimization has been halted
+2024-01-04 14:22:45,838 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:22:45,838 - INFO - Iteration 4.0: Program started
+2024-01-04 14:22:45,858 - INFO - This is check step: 4
+2024-01-04 14:22:46,048 - WARNING - Optimization has been halted
+2024-01-04 14:22:59,563 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:22:59,564 - INFO - Iteration 4.0: Program started
+2024-01-04 14:22:59,571 - INFO - This is check step: 4
+2024-01-04 14:22:59,765 - WARNING - Optimization has been halted
+2024-01-04 14:28:20,943 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:28:20,944 - INFO - Iteration 4.0: Program started
+2024-01-04 14:28:20,947 - INFO - This is check step: 3
+2024-01-04 14:28:21,189 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:28:21,645 - INFO - initializing Y
+2024-01-04 14:28:21,645 - INFO - initializing inference method
+2024-01-04 14:28:21,645 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:28:22,562 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:37:34,360 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:37:34,360 - INFO - Iteration 4.0: Program started
+2024-01-04 14:37:34,373 - INFO - This is check step: 3
+2024-01-04 14:37:34,583 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:37:34,872 - INFO - initializing Y
+2024-01-04 14:37:34,872 - INFO - initializing inference method
+2024-01-04 14:37:34,888 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:37:35,750 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:41:35,788 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:41:35,789 - INFO - Iteration 4.0: Program started
+2024-01-04 14:41:35,792 - INFO - This is check step: 3
+2024-01-04 14:41:36,002 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:41:36,288 - INFO - initializing Y
+2024-01-04 14:41:36,288 - INFO - initializing inference method
+2024-01-04 14:41:36,288 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:41:37,171 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:42:22,995 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:42:22,995 - INFO - Iteration 4.0: Program started
+2024-01-04 14:42:22,999 - INFO - This is check step: 4
+2024-01-04 14:42:23,199 - WARNING - Optimization has been halted
+2024-01-04 14:43:19,009 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:43:19,009 - INFO - Iteration 4.0: Program started
+2024-01-04 14:43:19,011 - INFO - This is check step: 3
+2024-01-04 14:43:19,219 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:43:19,527 - INFO - initializing Y
+2024-01-04 14:43:19,527 - INFO - initializing inference method
+2024-01-04 14:43:19,527 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:43:20,424 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:48:21,090 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:48:21,090 - INFO - Iteration 4.0: Program started
+2024-01-04 14:48:21,105 - INFO - This is check step: 3
+2024-01-04 14:48:21,339 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:48:21,652 - INFO - initializing Y
+2024-01-04 14:48:21,652 - INFO - initializing inference method
+2024-01-04 14:48:21,653 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:48:22,533 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:53:06,837 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:53:06,848 - INFO - Iteration 4.0: Program started
+2024-01-04 14:53:06,851 - INFO - This is check step: 3
+2024-01-04 14:53:07,073 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:53:07,366 - INFO - initializing Y
+2024-01-04 14:53:07,366 - INFO - initializing inference method
+2024-01-04 14:53:07,366 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:53:08,231 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:53:50,514 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:53:50,514 - INFO - Iteration 4.0: Program started
+2024-01-04 14:53:50,527 - INFO - This is check step: 3
+2024-01-04 14:53:50,741 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:53:51,011 - INFO - initializing Y
+2024-01-04 14:53:51,011 - INFO - initializing inference method
+2024-01-04 14:53:51,011 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:53:51,911 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:54:04,327 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:54:04,327 - INFO - Iteration 4.0: Program started
+2024-01-04 14:54:04,327 - INFO - This is check step: 3
+2024-01-04 14:54:04,551 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:54:04,840 - INFO - initializing Y
+2024-01-04 14:54:04,840 - INFO - initializing inference method
+2024-01-04 14:54:04,840 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:54:05,730 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:54:26,107 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:54:26,107 - INFO - Iteration 4.0: Program started
+2024-01-04 14:54:26,107 - INFO - This is check step: 3
+2024-01-04 14:54:26,333 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:54:26,605 - INFO - initializing Y
+2024-01-04 14:54:26,605 - INFO - initializing inference method
+2024-01-04 14:54:26,621 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:54:27,487 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:54:42,524 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:54:42,524 - INFO - Iteration 4.0: Program started
+2024-01-04 14:54:42,536 - INFO - This is check step: 3
+2024-01-04 14:54:42,761 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:54:43,067 - INFO - initializing Y
+2024-01-04 14:54:43,067 - INFO - initializing inference method
+2024-01-04 14:54:43,067 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:54:43,979 - INFO - Iteration 4.0: Program completed
+2024-01-04 14:54:54,818 - INFO - Reading dataset: MidazTest_Data.csv
+2024-01-04 14:54:54,819 - INFO - Iteration 4.0: Program started
+2024-01-04 14:54:54,822 - INFO - This is check step: 3
+2024-01-04 14:54:55,029 - INFO - Expansion of bounds dataframe at Iteration 4.0
+2024-01-04 14:54:55,318 - INFO - initializing Y
+2024-01-04 14:54:55,318 - INFO - initializing inference method
+2024-01-04 14:54:55,318 - INFO - adding kernel and likelihood as parameters
+2024-01-04 14:54:56,195 - INFO - Iteration 4.0: Program completed
