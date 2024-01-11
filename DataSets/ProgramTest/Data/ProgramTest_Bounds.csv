@@ -1,0 +1,9 @@
+﻿Condition,Type,Categories,BoundaryMin,BoundaryMax,Description,Maximize
+TestCondition1,Continuous,,0,100,1,
+TestCondition2,Continuous,,20,80,2,
+TestCondition3,Continuous,,30,70,3,
+TestCondition4,Continuous,,40,60,4,
+TestCondition5,Categorical,"A,B,C",,,5,
+TestCondition6,Categorical,"D,E,F",,,6,
+ObjInc,Objective,,0,1,7,TRUE
+ObcDec,Objective,,0,1,8,FALSE
