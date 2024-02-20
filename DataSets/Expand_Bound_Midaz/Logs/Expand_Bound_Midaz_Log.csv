@@ -1,0 +1,8 @@
+2024-02-20 14:28:59,953 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:28:59,953 - INFO - Iteration 0.0: Program started
+2024-02-20 14:28:59,964 - INFO - This is check step: 3
+2024-02-20 14:29:00,186 - INFO - Expansion of bounds dataframe
+2024-02-20 14:29:00,487 - INFO - initializing Y
+2024-02-20 14:29:00,487 - INFO - initializing inference method
+2024-02-20 14:29:00,487 - INFO - adding kernel and likelihood as parameters
+2024-02-20 14:29:01,018 - INFO - Iteration 0.0: Program completed
