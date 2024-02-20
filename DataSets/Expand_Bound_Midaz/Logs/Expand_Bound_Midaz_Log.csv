@@ -1,0 +1,80 @@
+2024-02-20 12:25:58,475 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 12:25:58,475 - INFO - Iteration 0.0: Program started
+2024-02-20 12:25:58,487 - INFO - This is check step: 3
+2024-02-20 12:25:58,722 - INFO - Expansion of bounds dataframe
+2024-02-20 13:44:51,772 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 13:44:51,772 - INFO - Iteration 0.0: Program started
+2024-02-20 13:44:51,786 - INFO - This is check step: 3
+2024-02-20 13:44:51,981 - INFO - Expansion of bounds dataframe
+2024-02-20 13:47:35,830 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 13:47:35,831 - INFO - Iteration 0.0: Program started
+2024-02-20 13:47:35,847 - INFO - This is check step: 3
+2024-02-20 13:47:36,044 - INFO - Expansion of bounds dataframe
+2024-02-20 13:50:12,365 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 13:50:12,365 - INFO - Iteration 0.0: Program started
+2024-02-20 13:50:12,388 - INFO - This is check step: 3
+2024-02-20 13:50:12,634 - INFO - Expansion of bounds dataframe
+2024-02-20 13:51:34,303 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 13:51:34,303 - INFO - Iteration 0.0: Program started
+2024-02-20 13:51:34,316 - INFO - This is check step: 3
+2024-02-20 13:51:34,539 - INFO - Expansion of bounds dataframe
+2024-02-20 13:53:45,504 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 13:53:45,504 - INFO - Iteration 0.0: Program started
+2024-02-20 13:53:45,517 - INFO - This is check step: 3
+2024-02-20 13:53:45,730 - INFO - Expansion of bounds dataframe
+2024-02-20 14:07:06,990 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:07:06,991 - INFO - Iteration 0.0: Program started
+2024-02-20 14:07:07,007 - INFO - This is check step: 3
+2024-02-20 14:07:07,205 - INFO - Expansion of bounds dataframe
+2024-02-20 14:08:28,815 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:08:28,815 - INFO - Iteration 0.0: Program started
+2024-02-20 14:08:28,831 - INFO - This is check step: 3
+2024-02-20 14:08:29,033 - INFO - Expansion of bounds dataframe
+2024-02-20 14:09:12,547 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:09:12,547 - INFO - Iteration 0.0: Program started
+2024-02-20 14:09:12,557 - INFO - This is check step: 3
+2024-02-20 14:09:12,777 - INFO - Expansion of bounds dataframe
+2024-02-20 14:09:40,175 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:09:40,175 - INFO - Iteration 0.0: Program started
+2024-02-20 14:09:40,187 - INFO - This is check step: 3
+2024-02-20 14:09:40,404 - INFO - Expansion of bounds dataframe
+2024-02-20 14:11:16,763 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:11:16,763 - INFO - Iteration 0.0: Program started
+2024-02-20 14:11:16,776 - INFO - This is check step: 4
+2024-02-20 14:11:16,969 - WARNING - Optimization has been halted
+2024-02-20 14:11:31,208 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:11:31,208 - INFO - Iteration 0.0: Program started
+2024-02-20 14:11:31,225 - INFO - This is check step: 3
+2024-02-20 14:11:31,433 - INFO - Expansion of bounds dataframe
+2024-02-20 14:13:18,606 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:13:18,606 - INFO - Iteration 0.0: Program started
+2024-02-20 14:13:18,610 - INFO - This is check step: 4
+2024-02-20 14:13:18,801 - WARNING - Optimization has been halted
+2024-02-20 14:13:30,338 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:13:30,339 - INFO - Iteration 0.0: Program started
+2024-02-20 14:13:30,356 - INFO - This is check step: 3
+2024-02-20 14:13:30,566 - INFO - Expansion of bounds dataframe
+2024-02-20 14:13:43,396 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:13:43,396 - INFO - Iteration 0.0: Program started
+2024-02-20 14:13:43,410 - INFO - This is check step: 4
+2024-02-20 14:13:43,613 - WARNING - Optimization has been halted
+2024-02-20 14:14:27,501 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:14:27,501 - INFO - Iteration 0.0: Program started
+2024-02-20 14:14:27,515 - INFO - This is check step: 3
+2024-02-20 14:14:27,713 - INFO - Expansion of bounds dataframe
+2024-02-20 14:16:21,638 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:16:21,638 - INFO - Iteration 0.0: Program started
+2024-02-20 14:16:21,650 - INFO - This is check step: 3
+2024-02-20 14:16:21,866 - INFO - Expansion of bounds dataframe
+2024-02-20 14:16:22,168 - INFO - initializing Y
+2024-02-20 14:16:22,168 - INFO - initializing inference method
+2024-02-20 14:16:22,168 - INFO - adding kernel and likelihood as parameters
+2024-02-20 14:16:22,587 - INFO - Iteration 0.0: Program completed
+2024-02-20 14:17:34,611 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-02-20 14:17:34,611 - INFO - Iteration 0.0: Program started
+2024-02-20 14:17:34,625 - INFO - This is check step: 5
+2024-02-20 14:17:34,833 - INFO - Exploration of expanded bounds
+2024-02-20 14:17:35,121 - INFO - initializing Y
+2024-02-20 14:17:35,121 - INFO - initializing inference method
+2024-02-20 14:17:35,121 - INFO - adding kernel and likelihood as parameters
+2024-02-20 14:17:35,489 - INFO - Iteration 0.0: Program completed

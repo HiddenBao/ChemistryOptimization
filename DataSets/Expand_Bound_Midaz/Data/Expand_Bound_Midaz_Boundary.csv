@@ -1,9 +1,0 @@
-﻿Condition,Type,Categories,BoundaryMin,BoundaryMax,Description,Maximize
-Temperature,Continuous,,40,60,Reaction temperature in degrees Celsius (ºC),
-Catalyst_Amount,Continuous,,0.3,0.8,Catalyst amounts in molar equivalents (Equiv.),
-Starting_Reagent,Continuous,,1.2,1.8,2-Methylimidozole amounts in molar equivalents (Equiv.),
-Solvent,Continuous,,0.2,0.3,Solvent amount in milliliters (mL),
-Time,Continuous,,4,16,Duration of reaction in hours (hr),
-Base,Continuous,,2,4,Base amount in molar equivalents (Equiv.),
-Main_Product,Objective,,0,1,LCAP of Main Product,TRUE
-Main_Impurity,Objective,,0,1,LCAP of Main Impurity,FALSE
