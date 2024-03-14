@@ -1,0 +1,3 @@
+NAME,Temperature,Catalyst_Amount,Starting_Reagent,Solvent,Time,Base,strategy
+TYPE,DATA,DATA,DATA,DATA,DATA,DATA,METADATA
+0,43.19420793447833,0.8,1.2,0.3,14.60876032795969,4.0,Single-objective BayOpt
