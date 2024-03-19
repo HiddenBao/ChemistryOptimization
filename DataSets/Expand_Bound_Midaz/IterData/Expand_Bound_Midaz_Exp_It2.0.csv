@@ -1,3 +1,3 @@
-NAME,Temperature,Catalyst_Amount,Starting_Reagent,Solvent,Time,Base,strategy
-TYPE,DATA,DATA,DATA,DATA,DATA,DATA,METADATA
-0,43.19420793447833,0.8,1.2,0.3,14.60876032795969,4.0,Single-objective BayOpt
+NAME,Temperature,Catalyst_Amount,Starting_Reagent,Solvent,Time,Base,strategy,Main_Product,Main_Impurity,Achievement_Function
+TYPE,DATA,DATA,DATA,DATA,DATA,DATA,METADATA,DATA,DATA,DATA
+11,43.19420793,0.8,1.2,0.3,14.60876033,4.0,Single-objective BayOpt,0.1458,0.00148,0.14432
