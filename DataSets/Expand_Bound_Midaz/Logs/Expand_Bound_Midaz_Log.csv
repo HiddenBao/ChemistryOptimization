@@ -30,3 +30,10 @@
 ,
 ,
 ,
+2024-03-22 12:10:49,817 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-03-22 12:10:49,817 - INFO - Iteration 3.0: Program started
+2024-03-22 12:10:49,833 - INFO - This is check step: 2
+2024-03-22 12:10:50,431 - INFO - initializing Y
+2024-03-22 12:10:50,431 - INFO - initializing inference method
+2024-03-22 12:10:50,431 - INFO - adding kernel and likelihood as parameters
+2024-03-22 12:10:50,601 - INFO - Iteration 3.0: Program completed
