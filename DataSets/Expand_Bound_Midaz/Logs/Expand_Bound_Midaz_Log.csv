@@ -22,3 +22,11 @@
 2024-03-19 12:03:42,167 - INFO - initializing inference method
 2024-03-19 12:03:42,167 - INFO - adding kernel and likelihood as parameters
 2024-03-19 12:03:42,466 - INFO - Iteration 2.0: Program completed
+2024-03-22 12:07:11,431 - INFO - Reading dataset: Expand_Bound_Midaz_Data.csv
+2024-03-22 12:07:11,431 - INFO - Iteration 3.0: Program started
+2024-03-22 12:07:11,443 - INFO - This is check step: 5
+2024-03-22 12:07:11,690 - INFO - Exploration of expanded bounds
+2024-03-22 12:07:12,006 - INFO - initializing Y
+2024-03-22 12:07:12,006 - INFO - initializing inference method
+2024-03-22 12:07:12,006 - INFO - adding kernel and likelihood as parameters
+2024-03-22 12:07:12,208 - INFO - Iteration 3.0: Program completed
