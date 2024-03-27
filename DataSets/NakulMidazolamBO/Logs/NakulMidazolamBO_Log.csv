@@ -98,3 +98,16 @@
 2024-03-22 12:06:13,515 - INFO - initializing inference method
 2024-03-22 12:06:13,515 - INFO - adding kernel and likelihood as parameters
 2024-03-22 12:06:14,613 - INFO - Iteration 12.0: Program completed
+2024-03-27 11:10:50,415 - INFO - Reading dataset: NakulMidazolamBO_Data.csv
+2024-03-27 11:10:50,489 - INFO - Iteration 13.0: Program started
+2024-03-27 11:10:50,507 - INFO - This is check step: 2
+2024-03-27 11:10:51,449 - INFO - initializing Y
+2024-03-27 11:10:51,449 - INFO - initializing inference method
+2024-03-27 11:10:51,449 - INFO - adding kernel and likelihood as parameters
+2024-03-27 11:12:16,017 - INFO - Reading dataset: NakulMidazolamBO_Data.csv
+2024-03-27 11:12:16,018 - INFO - Iteration 13.0: Program started
+2024-03-27 11:12:16,030 - INFO - This is check step: 2
+2024-03-27 11:12:16,610 - INFO - initializing Y
+2024-03-27 11:12:16,610 - INFO - initializing inference method
+2024-03-27 11:12:16,610 - INFO - adding kernel and likelihood as parameters
+2024-03-27 11:12:17,733 - INFO - Iteration 13.0: Program completed
